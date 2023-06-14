@@ -1,0 +1,38 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: -30px
+  }
+  
+  .table-row {
+    display: table-row;
+  }
+  
+  .table-cell {
+    display: table-cell;
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  .table-title {
+    font-weight: bold;
+  }
+
+  .currency-table {
+    border-collapse: collapse;
+    margin: 20px;
+    position: fixed;
+    top:100px; /* add some space below the navbar */
+    right: -20px;
+    z-index: 450; /* set a lower z-index value */
+  }
+  
+  
+  .currency-table td {
+    border: 1px solid black;
+    padding: 12px;
+  }
+  
+
+ 
+  

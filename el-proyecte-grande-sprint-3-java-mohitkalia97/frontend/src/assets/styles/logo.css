@@ -1,0 +1,15 @@
+.logo {
+    flex: 1;
+    border-radius: 1px;
+    width: 50%;
+    height: 50%;
+    margin: 30px;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+

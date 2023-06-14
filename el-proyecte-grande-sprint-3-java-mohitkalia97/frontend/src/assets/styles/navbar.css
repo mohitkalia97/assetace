@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkslateblue;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.nav-item {
+    margin: 0 5px;
+    display: inline-block;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    
+}

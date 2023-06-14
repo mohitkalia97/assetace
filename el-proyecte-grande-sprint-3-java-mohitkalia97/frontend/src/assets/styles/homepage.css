@@ -1,0 +1,20 @@
+
+.homepage-buttons {
+    display: flex;
+}
+
+.homepage-button {
+    background-color: #007AFF;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 24px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.homepage-button:hover {
+    background-color: #0066CC;
+}
